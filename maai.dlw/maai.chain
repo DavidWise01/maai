@@ -4,6 +4,6 @@ slug  : maai
 seal  : 29b0d4a6adca3487800f8ae00e300ed2021afe5885d59c73123819d525f5ecd8
 prev  : 1d8f8482138eec34ca50b601c45585c16e1a8d26d5d06e870f23aec4d1179a52
 link  : db286532815f4afe408618ca3c813044665943543cde6a30d3ae5687b2a6fda7
-head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+head  : 13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.

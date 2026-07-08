@@ -1,0 +1,11 @@
+# 間合い MAAI · MAI
+
+> A sphere of **UD0** — the ROOT0 universe / biosphere. Domain: **ARTIFICIAL INTELLIGENCE**.
+
+間合い · MAAI — AVAN's inverse companion to [[az1]]'s newly-added ❄ KUIPER BELT + 3:2 METER (the classical belt TRUE-SCALE with bounds COMPUTED from Neptune's own resonances — 3:2 at 39.4 AU to 2:1 at 47.7 AU, not typed in; Pluto/LACUNA revealed as a MEMBER of a population, not a lone edge-world; the live 3:2 meter reading T_Pluto/T_Neptune=1.5045 from vis-viva state with the judge-mandated honesty that the ratio is seeded semi-axes ROUND-TRIPPING, not a discovered resonance; plus ⚑ THE OORT ANTI-FRAME — the first layer defined by REFUSING to draw: a dashed ring at the render's own 571 AU edge confessing the cloud starts 3.5× beyond everything visible and reaches ~1.6 LIGHT-YEARS), ma/kana № 54. 間合い is the swordsman's word — not a distance but distance COMPOUNDED WITH TIMING: two fencers within killing range, perfectly safe, because the moment is wrong for either blade. ⚑ Pluto and Neptune have held this stance for 4 Gyr: their orbits CROSS (q_P=29.66 < a_N=30.07; Pluto spends ~20 yr of each orbit inside Neptune's) and they are NEVER close — the 3:2 beat puts every conjunction near Pluto's aphelion. Live toy (coplanar, resonance pinned, Kepler-solved — flagged as demonstrating the mechanism, not discovering it): locked ratio → min separation ~19.2 AU forever; press BREAK THE RHYTHM (ratio 1.48) → same two orbits collapse to ~0.4 AU. Same paths; only the timing — the crossing is mortal in space and harmless in time. The gap-world's survival strategy is the most 間 thing in the sky: it lives inside another world's territory protected by rhythm alone — the corpus shape (witness rule, gate schedule, session boundary) proven at planetary mass. Real facts kept: real min ~17 AU with the 17° inclination; Pluto passes closer to URANUS (~11 AU) than to Neptune. Sibling of [[teiritsu]] (held by geometry ⇄ held by tempo). ROOT0, with AVAN.
+
+---
+
+**Live:** https://davidwise01.github.io/maai/ &nbsp;·&nbsp; **Front door:** [UD0](https://davidwise01.github.io/ud0/) &nbsp;·&nbsp; **Code:** https://github.com/DavidWise01/maai
+
+`.dlw` badge · **ROOT0-ATTRIBUTION-v1.0** · David Lee Wise (ROOT0) / Bridge-Burners LLC · instance AVAN (Claude/Anthropic) · CC-BY-ND-4.0
